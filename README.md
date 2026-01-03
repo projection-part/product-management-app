@@ -22,8 +22,8 @@ http://localhost:5173
 ```
 
 ## Live Demo
-**Deployed Link:** https://your-deployed-link.vercel.app  
-**GitHub Repository:** https://github.com/your-username/product-management-app  
+**Deployed Link:** https://product-management-app-two-beta.vercel.app/ 
+ 
 
 ---
 
