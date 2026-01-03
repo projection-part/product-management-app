@@ -5,7 +5,7 @@ export default function Pagination({ totalPages, currentPage, setPage }) {
         <button
           key={i}
           style={{
-            background: currentPage === i + 1 ? "#F54927" : "#a0220cff"
+            background: currentPage === i + 1 ? "#a0220cff" : "#F54927"
           }}
           onClick={() => setPage(i + 1)}
         >
